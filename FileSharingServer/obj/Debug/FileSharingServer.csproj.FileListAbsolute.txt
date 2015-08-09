@@ -1,0 +1,9 @@
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\bin\Debug\FileSharingServer.exe.config
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\bin\Debug\FileSharingServer.exe
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\bin\Debug\FileSharingServer.pdb
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\obj\Debug\FileSharingServer.Form1.resources
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\obj\Debug\FileSharingServer.Properties.Resources.resources
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\obj\Debug\FileSharingServer.csproj.GenerateResource.Cache
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\obj\Debug\FileSharingServer.exe
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\obj\Debug\FileSharingServer.pdb
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\FileSharingServer\obj\Debug\FileSharingServer.csprojResolveAssemblyReference.cache
